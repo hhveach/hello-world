@@ -1,2 +1,2 @@
 # hello-world
-first repository
+Making my first repository, starting TIY Charleston in two days, and nervous!
